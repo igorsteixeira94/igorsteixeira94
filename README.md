@@ -1,9 +1,9 @@
-### Igor Rodrigues 👨‍💻️
+### 🤓️ Seja Bem-vindo, meu nome é Igor Rodrigues da Silva Teixeira. Sou cientista da computação, desenvolvedor Full Stack, apaixonado por tecnologia e inteligência artificial. 👨‍💻️
 
 ------
 
 
-🤓️ Seja Bem-vindo, meu nome é Igor Rodrigues da Silva Teixeira. Sou cientista da computação, desenvolvedor Full Stack, apaixonado por tecnologia e inteligência artificial.
+
 
 🔭 Atualmente trabalho como freelancer, desenvolvendo sistemas em JavaScript e PHP.
 
