@@ -27,14 +27,15 @@
 <img height="40" src="https://git-scm.com/images/logos/1color-lightbg@2x.png"/> 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
-
-
 </p>
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=igorsteixeira94&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsteixeira94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📕 Meus Últimos Posts
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 <!-- <!-- BLOG::START -->
 <!-- <!-- BLOG::END -->
