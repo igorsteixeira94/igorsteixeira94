@@ -40,7 +40,7 @@
 - [5 features do JavaScript](https://www.igorteixeira.com.br/5-features-do-javascript/)
 <!-- BLOG:END -->
 
-💻️ [Meu site](https://igorsteixeira.com.br)
+💻️ [Meu site](https://igorteixeira.com.br)
 
 
 ### Contato
