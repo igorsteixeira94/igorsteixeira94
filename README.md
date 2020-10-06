@@ -36,8 +36,8 @@
 
 ### 📕 Meus Últimos Posts
 
-<!-- BLOG:START -->
-<!-- BLOG:END -->
+<!-- <!-- BLOG::START -->
+<!-- <!-- BLOG::END -->
 
 ### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-Igor%20Rodrigues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorsteixeira94/)](https://www.linkedin.com/in/igorsteixeira94/) 
