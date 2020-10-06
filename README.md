@@ -35,6 +35,9 @@
 ### 📕 Meus Últimos Posts
 
 <!-- BLOG:START -->
+- [Cliente SOAP com nodejs](https://www.igorteixeira.com.br/cliente-soap-com-nodejs/)
+- [Usando createPortal do React](https://www.igorteixeira.com.br/usando-createPortal-do-react/)
+- [5 features do JavaScript](https://www.igorteixeira.com.br/5-features-do-javascript/)
 <!-- BLOG:END -->
 
 💻️ [Meu site](https://igorsteixeira.com.br)
