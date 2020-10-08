@@ -35,6 +35,7 @@
 ### 📕 Meus Últimos Posts
 
 <!-- BLOG:START -->
+- [Gerenciando as dependências no Node.js](https://www.igorteixeira.com.br/gerenciando-as-dependências-no-node-js/)
 - [Cliente SOAP com nodejs](https://www.igorteixeira.com.br/cliente-soap-com-nodejs/)
 - [Usando createPortal do React](https://www.igorteixeira.com.br/usando-createPortal-do-react/)
 - [5 features do JavaScript](https://www.igorteixeira.com.br/5-features-do-javascript/)
