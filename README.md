@@ -3,13 +3,13 @@
   Seja Bem-Vindo, Meu nome é Igor Rodrigues ! 🤳️
 </h4>
 <p align="center">
-  🎓 Graduado em <b>Ciência da Computação</b> &nbsp; 👨‍💻️ Full Stack Jr <b>Javacript</b>
+  🎓 Graduado em <b>Ciência da Computação</b> &nbsp; 👨‍💻️ Full Stack <b>Javacript</b>
 </p>
 <p align="center">
   🛠️ Apaixonado por construir scripts inúteis e 🤖️ modelos de machine learning e deep learning em  <b>Python</b>
 </p>
 <p align="center">
-  🚀 Estudante do GoStack da <b>Rocketseat</b> &nbsp; 🎯 Focado nas tecnologias <b>Node.JS</b>, <b>ReactJS</b> e <b>React Native</b>
+  🚀 Atualmente, estudando sobre <b>desenvolvimento mobile</b> &nbsp; 🎯  Focado nas tecnologias <b>Node.JS</b> e <b>React Native</b>
 </p>
    
 <h3>Ferramentas e Linguagens</h3>
@@ -19,12 +19,13 @@
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img height="40" src="https://raw.githubusercontent.com/willtheorangeguy/Python-Logo-Widgets/master/pythonlogogif.gif"/>
+<img height="40" src="https://i2.wp.com/www.vooo.pro/insights/wp-content/uploads/2018/05/Python_logo.png?fit=1200%2C508&ssl=1"/>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/> 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> 
+<img height="40" src="https://p7.hiclipart.com/preview/124/199/704/logo-mysql-5-einfuhrung-programmierung-referenz-scalable-vector-graphics-mysql-logo-thumbnail.jpg"/> 
 <img height="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"/> 
-<img height="40" src="https://camo.githubusercontent.com/9b74122cee0058e9bc59b360be70c216de35c16f/68747470733a2f2f7765626173736574732e6d6f6e676f64622e636f6d2f5f636f6d5f6173736574732f636d732f6d6f6e676f64622d6c6f676f2d7267622d6a36773237316731786e2e6a7067"/> 
-<img height="40" src="https://git-scm.com/images/logos/1color-lightbg@2x.png"/> 
+<img height="40" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"/> 
+<img height="40" src="https://www.ndd.com.br/blog/wp-content/uploads/2019/02/oracle.png">
+<img height="40" src="https://webdevtools.com.br/wp-content/uploads/2018/04/Git-Logo-1788C.png"/> 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
 </p>
