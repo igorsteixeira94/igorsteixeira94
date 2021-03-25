@@ -43,19 +43,7 @@
 ![Oracle](https://img.shields.io/badge/-ORACLE-000?&logo=Oracle&logoColor=ee2d32)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=316192)
 
-
-
-<h3>Banco de dados</h3>
-<p align="center">
-<img height="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL"/> 
-<img height="40" src="http://blog.dbaacademy.com.br/wp-content/uploads/2017/02/postgresql-logo1.png" alt="Postgres"/> 
-<img height="40" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="MongoDb"/> 
-<img height="40" src="https://www.ndd.com.br/blog/wp-content/uploads/2019/02/oracle.png" alt="Oracle">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" alt="SQLite"/> 
-<img height="40" src="https://docs.mongodb.com/realm-legacy/assets/svg/general_logo.svg" alt="ReamlDB">
-
-</p>
-   
+  
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=igorsteixeira94&show_icons=true&hide_border=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsteixeira94&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
