@@ -6,9 +6,6 @@
   👨‍🎓️ Graduado em <b>Ciência da Computação</b> &nbsp; 😎️ Full Stack <b>Javacript</b>
 </p>
 <p align="center">
-  🛠️ Apaixonado por construir scripts inúteis e 🤖️ modelos de machine learning e deep learning em  <b>Python</b>
-</p>
-<p align="center">
   🤓️ Atualmente, estudando sobre <b>desenvolvimento mobile</b> &nbsp; 🎯  Focado nas tecnologias <b>Node.JS</b>, <b>React</b> e <b>React Native</b>
 </p>
 <p align="center">
@@ -70,4 +67,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Igor%20Rodrigues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorsteixeira94/)](https://www.linkedin.com/in/igorsteixeira94/) 
 [![Gmail Badge](https://img.shields.io/badge/igorsteixeira94@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorsteixeira94@gmail.com)](mailto:igorsteixeira94@gmail.com) 
 
+<p align="center"> 
 
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/igorsteixeira94/count.svg" />
+ </p>
+
+</p>
