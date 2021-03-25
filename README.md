@@ -12,16 +12,38 @@
   👨‍💻️ Trabalho como desenvolvedor na <a href="https://hitcode.com.br/"><b>HITCode</b></a> utilizando as tecnologias <b>Node.JS</b> e <b>React Native</b>
 </p>
 
+### Linguagens
 
-<h3>Linguagens de programação que utilizo e/ou já utilizei</h3>
-<p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>  
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
-  <img height="40" src="https://logos-download.com/wp-content/uploads/2016/10/Kotlin_logo_wordmark.png"/>
-  <img height="40" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"/>
-  <img height="40" src="https://i2.wp.com/www.vooo.pro/insights/wp-content/uploads/2018/05/Python_logo.png?fit=1200%2C508&ssl=1"/>
-  <img height="40" src="https://www.php.net/images/logos/new-php-logo.svg"/>
-</p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=f88728)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+
+### Ferramentas
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React](https://img.shields.io/badge/-React%20Native-000?&logo=React&logoColor=00d7fe)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&logoColor=e35a2b)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=f05033)
+![Github](https://img.shields.io/badge/-Github-000?&logo=GitHub&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket&logoColor=0558d2)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-000?&logo=Android&logoColor=86b950)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=ffca44)
+
+### Banco de dados
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=316192)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=Mysql&logoColor=50bffa)
+![mongoDB](https://img.shields.io/badge/-mongoDB-000?&logo=Mongodb&logoColor=10aa50)
+![Oracle](https://img.shields.io/badge/-ORACLE-000?&logo=Oracle&logoColor=ee2d32)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=316192)
+
+
 
 <h3>Banco de dados</h3>
 <p align="center">
@@ -34,18 +56,6 @@
 
 </p>
    
-<h3>Frameworks e Ferramentas</h3>
-<p align="center">
-<img height="40" src="https://webdevtools.com.br/wp-content/uploads/2018/04/Git-Logo-1788C.png" alt="GIT e GIT FLOW"/> 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal Bash/Zsh">
-<img height="40" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" alt="React e React Native">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1200px-Node.js_logo_2015.svg.png" alt="NodeJs">
-<img height="40" src="https://inletlabs.com/assets/images/logo_stack/tensorflow-logo.png" alt="TensorFlow">
-<img height="40" src="https://miro.medium.com/max/739/1*rTbyH3zL7Ue8VyTHRMRDAA.png" alt="TypeOrm">
-<img height="40" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png" alt="Android Studio">
-<img height="40" src="https://www.appverticals.com/blog/wp-content/uploads/2020/05/Xcode-IDE-logo1.png" alt="Xcode">
-<img height="40" src="https://firebase.google.com/images/brand-guidelines/logo-standard.png?authuser=1&hl=pt-BR" alt="FireBase">
-</p>
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=igorsteixeira94&show_icons=true&hide_border=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsteixeira94&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -67,11 +77,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Igor%20Rodrigues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorsteixeira94/)](https://www.linkedin.com/in/igorsteixeira94/) 
 [![Gmail Badge](https://img.shields.io/badge/igorsteixeira94@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorsteixeira94@gmail.com)](mailto:igorsteixeira94@gmail.com) 
 
-<p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ### Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/igorsteixeira94/count.svg" />
  </p>
 
+ ### Total de Visitas nos perfis da equipe <a href="https://hitcode.com.br/"><b>HITCODE</b></a> :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/hitcode/count.svg" />
 </p>
+
+
