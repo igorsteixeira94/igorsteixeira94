@@ -47,7 +47,7 @@
 ### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-Igor%20Rodrigues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorsteixeira94/)](https://www.linkedin.com/in/igorsteixeira94/) 
 [![Gmail Badge](https://img.shields.io/badge/igorsteixeira94@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorsteixeira94@gmail.com)](mailto:igorsteixeira94@gmail.com) 
-[![Gmail Badge](https://img.shields.io/badge/Site%20Pessoal-6633cc?style=flat-square&logo=firefox&logoColor=white&link=https://igorteixeira.com.br)](https://igorteixeira.com.br) 
+
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=igorsteixeira94&show_icons=true&hide_border=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorsteixeira94&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
