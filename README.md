@@ -44,17 +44,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=316192)
 
 
-### Meus Últimos Posts
-
-<!-- BLOG:START -->
-- [Aprendendo TypeScript - Parte 2](https://www.igorteixeira.com.br/aprendendo-typescript-parte-2/)
-- [Aprendendo TypeScript - Parte 1](https://www.igorteixeira.com.br/aprendendo-typescript-parte-1/)
-- [NLW3 - Dia 0](https://www.igorteixeira.com.br/nlw3-dia-0/)
-- [Gerenciando as dependências no Node.js](https://www.igorteixeira.com.br/gerenciando-as-dependências-no-node-js/)
-- [Cliente SOAP com nodejs](https://www.igorteixeira.com.br/cliente-soap-com-nodejs/)
-<!-- BLOG:END -->
-
-
 ### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-Igor%20Rodrigues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorsteixeira94/)](https://www.linkedin.com/in/igorsteixeira94/) 
 [![Gmail Badge](https://img.shields.io/badge/igorsteixeira94@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorsteixeira94@gmail.com)](mailto:igorsteixeira94@gmail.com) 
