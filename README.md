@@ -4,44 +4,30 @@
   👨‍🎓️ &nbsp; Cientista da computação
 </p>
 <p>
-  😎️ 📲 &nbsp; <b>React Native</b> Mobile Developer 
+  😎️ 📲 &nbsp; Mobile Developer 
 </p>
 <p>
-  🤓️ &nbsp; Estudando as tecnologias <b>React Native</b> e <b>NodeJS</b>
+  🤓️ &nbsp; Estudando as tecnologias/linguagens <b>React Native</b> e <b>Swift</b>
 </p>
 <p>
-  👨‍💻️ &nbsp; Trabalho como desenvolvedor na <a href="https://hitcode.com.br/"><b>HITCode</b></a>
+  👨‍💻️ &nbsp; Trabalho como desenvolvedor no <a href="https://www.c6bank.com.br/"><b>C6 bank</b></a>
 </p>
 
 ### Linguagens
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=f88728)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift&logoColor=f88728)
 
 ### Ferramentas
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React](https://img.shields.io/badge/-React%20Native-000?&logo=React&logoColor=00d7fe)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&logoColor=e35a2b)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=f05033)
-![Github](https://img.shields.io/badge/-Github-000?&logo=GitHub&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket&logoColor=0558d2)
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-000?&logo=Android&logoColor=86b950)
+![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode&logoColor=86b950)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=ffca44)
 
-### Banco de dados
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=316192)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=Mysql&logoColor=50bffa)
-![mongoDB](https://img.shields.io/badge/-mongoDB-000?&logo=Mongodb&logoColor=10aa50)
-![Oracle](https://img.shields.io/badge/-ORACLE-000?&logo=Oracle&logoColor=ee2d32)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=316192)
 
 
 ### Contato
