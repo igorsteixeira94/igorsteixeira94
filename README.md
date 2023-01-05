@@ -10,7 +10,7 @@
   🤓️ &nbsp; Estudando as tecnologias/linguagens <b>React Native</b> e <b>Swift</b>
 </p>
 <p>
-  👨‍💻️ &nbsp; Trabalho como desenvolvedor no <a href="https://www.c6bank.com.br/"><b>C6 bank</b></a>
+  👨‍💻️ &nbsp; Trabalho como desenvolvedor iOS no <a href="https://www.c6bank.com.br/"><b>C6 bank</b></a>
 </p>
 
 ### Linguagens
