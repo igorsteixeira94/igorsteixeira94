@@ -7,7 +7,7 @@
   😎️ 📲 &nbsp; Senior Mobile Developer 
 </p>
 <p>
-  🤓️ &nbsp; Estudando as tecnologias/linguagens <b>React Native</b> e <b>Swift</b>
+  🤓️ &nbsp; Me especializando em desenvolvimento mobile (Mobile Engineer)
 </p>
 <p>
   👨‍💻️ &nbsp; Trabalho como desenvolvedor iOS no <a href="https://www.c6bank.com.br/"><b>C6 bank</b></a>
